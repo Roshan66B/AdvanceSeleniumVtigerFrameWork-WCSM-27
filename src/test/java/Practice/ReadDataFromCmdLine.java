@@ -9,5 +9,9 @@ public class ReadDataFromCmdLine
 	{
 		String BROWSER=System.getProperty("browser"); //Runtime parameter
 		System.out.println(BROWSER);
+		
+		
+		String BROWSER1=System.getProperty("browser"); //Runtime parameter
+		System.out.println(BROWSER1);
 	}
 }
