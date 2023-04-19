@@ -58,6 +58,7 @@
 </dependencies>
 
 <profiles>
+
 <profile>
 <id>Regional</id>
 <build> 
@@ -111,7 +112,7 @@
 </plugins> 
 </build> 
 </profile>
-</profiles>
 
+</profiles>
 
 </project>
